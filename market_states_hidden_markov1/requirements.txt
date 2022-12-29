@@ -1,0 +1,6 @@
+numpy
+pandas
+pyhhmm
+requests
+plotly==5.10.0
+kaleido==0.1.0.post1
