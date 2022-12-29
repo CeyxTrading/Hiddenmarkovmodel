@@ -1,4 +1,8 @@
-We've added these models to all our bots to help determine hidden states of the market. Also lowers volume of trades, increasing profit rate. 
+A hidden Markov model (HMM) is a statistical model that can be used to analyze and predict the likelihood of certain sequences of events. In the context of crypto trading, an HMM could potentially be used to predict price movements or other market trends based on past data.
+
+One potential application of an HMM in crypto trading is to analyze historical data on the prices of different cryptocurrencies and use this information to predict future price movements. This could involve training an HMM on a large dataset of historical price data, and then using the trained model to make predictions about the future price of a particular cryptocurrency.
+
+There are several potential benefits to using an HMM for crypto trading. For example, an HMM can take into account the dependencies between different events, such as the relationship between the prices of different cryptocurrencies or the impact of market news on price movements. Additionally, an HMM can be used to analyze data from multiple sources, such as social media posts or news articles, to inform its predictions
 
 If you are unfamiliar with Hidden Markov Models and/or are unaware of how they can be used as a risk management tool read here https://hmmlearn.readthedocs.io/en/0.2.0/auto_examples/plot_hmm_stock_analysis.html
 
